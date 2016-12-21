@@ -17,3 +17,4 @@ Feel free to add links to data that moves you:
 * [Climate Data](https://www.climate.gov/maps-data)
 * [FiveThirtyEight Data](https://github.com/fivethirtyeight/data)
 * [The Opportunity Fund](http://opportunity.census.gov/)
+* [Kaggle Data Sets](https://www.kaggle.com/datasets)
