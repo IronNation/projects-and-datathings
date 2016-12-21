@@ -1,9 +1,11 @@
 # projects-and-datathings
 
 * Check out data! 
+* Identify problems your community is facing.
 * Check out project ideas! 
-* Add a project idea by making a PR.
+* Add a project idea by making a pull request.
 
+Hop over to the slack channel to discuss team formation!
 
 Feel free to add links to data that moves you:
 
