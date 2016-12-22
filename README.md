@@ -1,8 +1,8 @@
 # projects-and-datathings
 
-* Check out data! 
+* Check out data!
 * Identify problems your community is facing.
-* Check out project ideas! 
+* Check out project ideas!
 * Add a project idea by making a pull request.
 
 Hop over to the slack channel to discuss team formation!
@@ -18,3 +18,5 @@ Feel free to add links to data that moves you:
 * [FiveThirtyEight Data](https://github.com/fivethirtyeight/data)
 * [The Opportunity Fund](http://opportunity.census.gov/)
 * [Kaggle Data Sets](https://www.kaggle.com/datasets)
+* [DataTurbine](http://dataturbine.org/)
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
