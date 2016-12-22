@@ -19,3 +19,4 @@ Feel free to add links to data that moves you:
 * [The Opportunity Fund](http://opportunity.census.gov/)
 * [Kaggle Data Sets](https://www.kaggle.com/datasets)
 * [DataTurbine](http://dataturbine.org/)
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
