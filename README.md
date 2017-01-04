@@ -22,4 +22,6 @@ Feel free to add links to data that moves you:
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 
 
-** if you use the Opportunity Project datasets/APIs, let Sam Kapila know, and she will fill the White House in. 
+** if you use the Opportunity Project datasets/APIs, let Sam Kapila know, and she will fill the White House in. (!!!) 
+
+see [here] (http://blog.theironyard.com/2016/10/10/iron-yard-white-house-irongrad-presents-opportunity-project-app/)
