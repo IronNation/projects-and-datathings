@@ -20,3 +20,4 @@ Feel free to add links to data that moves you:
 * [Kaggle Data Sets](https://www.kaggle.com/datasets)
 * [DataTurbine](http://dataturbine.org/)
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+* [Data.world] (https://data.world/)
